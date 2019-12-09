@@ -1,0 +1,6 @@
+C:\Users\Sidi\source\repos\LinqTest\LinqTest\bin\Debug\LinqTest.exe.config
+C:\Users\Sidi\source\repos\LinqTest\LinqTest\bin\Debug\LinqTest.exe
+C:\Users\Sidi\source\repos\LinqTest\LinqTest\bin\Debug\LinqTest.pdb
+C:\Users\Sidi\source\repos\LinqTest\LinqTest\obj\Debug\LinqTest.csprojAssemblyReference.cache
+C:\Users\Sidi\source\repos\LinqTest\LinqTest\obj\Debug\LinqTest.exe
+C:\Users\Sidi\source\repos\LinqTest\LinqTest\obj\Debug\LinqTest.pdb
